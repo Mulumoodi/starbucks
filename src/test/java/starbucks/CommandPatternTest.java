@@ -18,7 +18,8 @@ import org.junit.Test;
 public class CommandPatternTest
 {
     IApp app ;
-    
+    PinEntryMachine pinEntry ;
+
     /**
      * Default constructor for test class CommandPatternTest
      */
@@ -35,6 +36,7 @@ public class CommandPatternTest
     public void setUp()
     {
         app = new AppAuthProxy() ;
+        pinEntry = new PinEntryMachine();
     }
 
 
@@ -43,10 +45,18 @@ public class CommandPatternTest
     {
         // Login with pin
 
+		app.display() ;
+		app.touch(1,5) ;
+		app.touch(2,5) ;
+		app.touch(3,5) ;
+		app.touch(1,6) ;
+		app.display() ;
+
         // Select Menu "A"
- 
+		app.execute("A");
+
         // Assertion
-        assertEquals("MyCards", app.screen());            
+        assertEquals("MyCards", app.screen());
     }
 
     @Test
@@ -55,21 +65,40 @@ public class CommandPatternTest
         // Login with pin
 
         // Select Menu "B"
- 
+    		app.display() ;
+		app.touch(1,5) ;
+		app.touch(2,5) ;
+		app.touch(3,5) ;
+		app.touch(1,6) ;
+		app.display() ;
+
+        // Select Menu "B"
+		app.execute("B");
+
         // Assertion
-        assertEquals("Payments", app.screen());            
+        assertEquals("Payments", app.screen());
     }
 
   @Test
     public void testRewards()
     {
-        assertEquals("PinScreen", app.screen());
+
+	  	app.display() ;
+	  	 assertEquals("PinScreen", app.screen());
+		app.touch(1,5) ;
+		app.touch(2,5) ;
+		app.touch(3,5) ;
+		app.touch(1,6) ;
+		app.display() ;
+		app.execute("C");
+
+
         // Login with pin
 
         // Select Menu "C"
- 
-        // Assertion 
-        assertEquals("Rewards", app.screen());            
+
+        // Assertion
+        assertEquals("Rewards", app.screen());
     }
 
   @Test
@@ -78,12 +107,18 @@ public class CommandPatternTest
         // Login with pin
 
         // Select Menu "D"
- 
-        // Assertion 
-        assertEquals("Store", app.screen());            
+		app.display() ;
+		app.touch(1,5) ;
+		app.touch(2,5) ;
+		app.touch(3,5) ;
+		app.touch(1,6) ;
+		app.display() ;
+		app.execute("D");
+        // Assertion
+        assertEquals("Store", app.screen());
     }
 
-    
+
     /**
      * Tears down the test fixture.
      *
@@ -92,5 +127,6 @@ public class CommandPatternTest
     @After
     public void tearDown()
     {
+
     }
 }

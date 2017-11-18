@@ -1,0 +1,607 @@
+----------------
+   PinScreen  
+----------------
+
+ [_][_][_][_]
+
+
+ [1] [2] [3]
+ [4] [5] [6]
+ [7] [8] [9]
+ [_] [0] [X]
+
+----------------
+
+KeyPad Touched at (1, 5)
+Key: 1
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (2, 5)
+Key: 2
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+KeyPad Touched at (3, 5)
+Key: 3
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+KeyPad Touched at (1, 6)
+Key: 4
+'Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 4
+Authenticating...
+Successful Login!
+  MyCards  
+================
+
+
+================
+
+ [A][B][C][D]
+----------------
+   PinScreen  
+----------------
+
+ [_][_][_][_]
+
+
+ [1] [2] [3]
+ [4] [5] [6]
+ [7] [8] [9]
+ [_] [0] [X]
+
+----------------
+
+KeyPad Touched at (1, 5)
+Key: 1
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (2, 5)
+Key: 2
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+KeyPad Touched at (3, 5)
+Key: 3
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+KeyPad Touched at (1, 6)
+Key: 4
+'Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 4
+Authenticating...
+Successful Login!
+  MyCards  
+================
+
+
+================
+
+ [A][B][C][D]
+----------------
+   PinScreen  
+----------------
+
+ [_][_][_][_]
+
+
+ [1] [2] [3]
+ [4] [5] [6]
+ [7] [8] [9]
+ [_] [0] [X]
+
+----------------
+
+KeyPad Touched at (1, 5)
+Key: 1
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (2, 5)
+Key: 2
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+KeyPad Touched at (3, 5)
+Key: 3
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+KeyPad Touched at (1, 6)
+Key: 4
+'Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 4
+Authenticating...
+Successful Login!
+  MyCards  
+================
+
+
+================
+
+ [A][B][C][D]
+----------------
+   PinScreen  
+----------------
+
+ [_][_][_][_]
+
+
+ [1] [2] [3]
+ [4] [5] [6]
+ [7] [8] [9]
+ [_] [0] [X]
+
+----------------
+
+KeyPad Touched at (1, 5)
+Key: 1
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (2, 5)
+Key: 2
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+KeyPad Touched at (3, 5)
+Key: 3
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+KeyPad Touched at (1, 6)
+Key: 4
+'Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 4
+Authenticating...
+Successful Login!
+  MyCards  
+================
+
+
+================
+
+ [A][B][C][D]
+KeyPad Touched at (1, 5)
+Key Pressed: 1
+KeyPad Touched at (3, 6)
+Key Pressed: 6
+	KeyPad Touched at (2, 5)
+	Key Pressed: 2
+
+KeyPad Touched at (2, 7)
+
+Key Pressed: 8
+KeyPad Touched at (2, 8)
+Key Pressed: 0
+KeyPad Touched at (1, 7)
+Key Pressed: 7
+KeyPad Touched at (3, 5)
+Key Pressed: 3
+KeyPad Touched at (2, 6)
+Key Pressed: 5
+KeyPad Touched at (1, 6)
+Key Pressed: 4
+KeyPad Touched at (3, 7)
+Key Pressed: 9
+KeyPad Touched at (2, 8)
+Key Pressed: 0
+KeyPad Touched at (3, 7)
+KeyPad Touched at (3, 8)
+Key Pressed: X
+KeyPad Touched at (1, 5)
+Key: 1
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (2, 5)
+Key: 2
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+KeyPad Touched at (1, 5)
+Key: 1
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (2, 5)
+Key: 2
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+KeyPad Touched at (3, 5)
+Key: 3
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+KeyPad Touched at (1, 5)
+Key: 1
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (2, 5)
+Key: 2
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+KeyPad Touched at (3, 5)
+Key: 3
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+KeyPad Touched at (1, 6)
+Key: 4
+'Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 4
+Authenticating...
+Successful Login!
+KeyPad Touched at (1, 5)
+Key: 1
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (1, 5)
+Key: 1
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (2, 5)
+Key: 2
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+KeyPad Touched at (3, 5)
+Key: 3
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+KeyPad Touched at (1, 6)
+Key: 4
+'Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 4
+Authenticating...
+Successful Login!
+KeyPad Touched at (1, 5)
+Key: 1
+KeyPad Touched at (2, 5)
+Key: 2
+KeyPad Touched at (3, 5)
+Key: 3
+KeyPad Touched at (1, 6)
+Key: 4
+KeyPad Touched at (3, 8)
+Key: X
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+%Current State: starbucks.NoPinDigits
+D1 = 
+D2 = 
+D3 = 
+D4 = 
+starbucks.NoPinDigits
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+'Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 4
+Authenticating...
+Successful Login!
+%Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+&Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+(Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+'Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 5
+Authenticating...
+Login Failed!
+%Current State: starbucks.NoPinDigits
+D1 = 
+D2 = 
+D3 = 
+D4 = 
+! KeyPad Touched at (1, 5)
+! Key: 1
+! %Current State: starbucks.OnePinDigit
+! D1 = 1
+! D2 = 
+! D3 = 
+! D4 = 
+! KeyPad Touched at (2, 5)
+! Key: 2
+! &Current State: starbucks.TwoPinDigits
+! D1 = 1
+! D2 = 2
+! D3 = 
+! D4 = 
+! KeyPad Touched at (3, 5)
+! Key: 3
+! (Current State: starbucks.ThreePinDigits
+! D1 = 1
+! D2 = 2
+! D3 = 3
+! D4 = 
+! KeyPad Touched at (2, 6)
+! Key: 5
+! 'Current State: starbucks.FourPinDigits
+! D1 = 1
+! D2 = 2
+! D3 = 3
+! D4 = 5
+! Authenticating...
+! Login Failed!
+! %Current State: starbucks.NoPinDigits
+! D1 = 
+! D2 = 
+! D3 = 
+! D4 = 
+! Firstg
+! 
+PinScreen
+!"KeyPad Touched at (1, 5)
+!"Key: 1
+!"%Current State: starbucks.OnePinDigit
+!"D1 = 1
+!"D2 = 
+!"D3 = 
+!"D4 = 
+!"KeyPad Touched at (2, 5)
+!"Key: 2
+!"&Current State: starbucks.TwoPinDigits
+!"D1 = 1
+!"D2 = 2
+!"D3 = 
+!"D4 = 
+!"KeyPad Touched at (3, 5)
+!"Key: 3
+!"(Current State: starbucks.ThreePinDigits
+!"D1 = 1
+!"D2 = 2
+!"D3 = 3
+!"D4 = 
+!"KeyPad Touched at (4, 5)
+!"Key: 4
+!"'Current State: starbucks.FourPinDigits
+!"D1 = 1
+!"D2 = 2
+!"D3 = 3
+!"D4 = 4
+!"Authenticating...
+!"Successful Login!
+!"Second
+!"MyCards
+$#KeyPad Touched at (1, 5)
+$#Key: 1
+$#%Current State: starbucks.OnePinDigit
+$#D1 = 1
+$#D2 = 
+$#D3 = 
+$#D4 = 
+$#KeyPad Touched at (2, 5)
+$#Key: 2
+$#&Current State: starbucks.TwoPinDigits
+$#D1 = 1
+$#D2 = 2
+$#D3 = 
+$#D4 = 
+$#KeyPad Touched at (3, 5)
+$#Key: 3
+$#(Current State: starbucks.ThreePinDigits
+$#D1 = 1
+$#D2 = 2
+$#D3 = 3
+$#D4 = 
+$#KeyPad Touched at (4, 5)
+$#Key: 4
+$#'Current State: starbucks.FourPinDigits
+$#D1 = 1
+$#D2 = 2
+$#D3 = 3
+$#D4 = 4
+$#Authenticating...
+$#Successful Login!
+$#  MyCards  
+$#================
+$#
+$#
+$#================
+$#
+$# [A][B][C][D]
+$#MyCards
+$#Getname of current screen
+$#	Payments
+$%KeyPad Touched at (1, 5)
+$%Key: 1
+$%%Current State: starbucks.OnePinDigit
+$%D1 = 1
+$%D2 = 
+$%D3 = 
+$%D4 = 
+$%KeyPad Touched at (2, 5)
+$%Key: 2
+$%&Current State: starbucks.TwoPinDigits
+$%D1 = 1
+$%D2 = 2
+$%D3 = 
+$%D4 = 
+$%KeyPad Touched at (3, 5)
+$%Key: 3
+$%(Current State: starbucks.ThreePinDigits
+$%D1 = 1
+$%D2 = 2
+$%D3 = 3
+$%D4 = 
+$%KeyPad Touched at (4, 5)
+$%Key: 4
+$%'Current State: starbucks.FourPinDigits
+$%D1 = 1
+$%D2 = 2
+$%D3 = 3
+$%D4 = 4
+$%Authenticating...
+$%Successful Login!
+$%  MyCards  
+$%================
+$%
+$%
+$%================
+$%
+$% [A][B][C][D]
+$%Getname of current screen -- >
+$%MyCards

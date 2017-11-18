@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="starbucks.StrategyPatternTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-11-18T22:42:38" hostname="Sais-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="testPortrait" classname="starbucks.StrategyPatternTest" time="0.001"/>
+  <testcase name="testLandscape" classname="starbucks.StrategyPatternTest" time="0.001"/>
+  <system-out><![CDATA[KeyPad Touched at (1, 5)
+Key: 1
+Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (2, 5)
+Key: 2
+Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+KeyPad Touched at (3, 5)
+Key: 3
+Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+KeyPad Touched at (4, 5)
+Key: 4
+Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 4
+Authenticating...
+Successful Login!
+  MyCards  
+================
+
+
+================
+
+ [A][B][C][D]
+MyCards
+Getname of current screen
+Payments
+KeyPad Touched at (1, 5)
+Key: 1
+Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (2, 5)
+Key: 2
+Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+KeyPad Touched at (3, 5)
+Key: 3
+Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+KeyPad Touched at (4, 5)
+Key: 4
+Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 4
+Authenticating...
+Successful Login!
+  MyCards  
+================
+
+
+================
+
+ [A][B][C][D]
+Getname of current screen -- >
+MyCards
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

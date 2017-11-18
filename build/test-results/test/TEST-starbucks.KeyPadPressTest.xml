@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="starbucks.KeyPadPressTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2017-11-18T22:42:38" hostname="Sais-MacBook-Pro.local" time="0.007">
+  <properties/>
+  <testcase name="testOne" classname="starbucks.KeyPadPressTest" time="0.001"/>
+  <testcase name="testSix" classname="starbucks.KeyPadPressTest" time="0.0"/>
+  <testcase name="testTwo" classname="starbucks.KeyPadPressTest" time="0.0"/>
+  <testcase name="testEight" classname="starbucks.KeyPadPressTest" time="0.0"/>
+  <testcase name="testNoKey" classname="starbucks.KeyPadPressTest" time="0.0"/>
+  <testcase name="testSeven" classname="starbucks.KeyPadPressTest" time="0.0"/>
+  <testcase name="testThree" classname="starbucks.KeyPadPressTest" time="0.0"/>
+  <testcase name="testFive" classname="starbucks.KeyPadPressTest" time="0.001"/>
+  <testcase name="testFour" classname="starbucks.KeyPadPressTest" time="0.0"/>
+  <testcase name="testNine" classname="starbucks.KeyPadPressTest" time="0.0"/>
+  <testcase name="testZero" classname="starbucks.KeyPadPressTest" time="0.0"/>
+  <testcase name="testBackspace" classname="starbucks.KeyPadPressTest" time="0.001"/>
+  <system-out><![CDATA[KeyPad Touched at (1, 5)
+Key Pressed: 1
+KeyPad Touched at (3, 6)
+Key Pressed: 6
+KeyPad Touched at (2, 5)
+Key Pressed: 2
+KeyPad Touched at (2, 7)
+Key Pressed: 8
+KeyPad Touched at (2, 8)
+Key Pressed: 0
+KeyPad Touched at (1, 7)
+Key Pressed: 7
+KeyPad Touched at (3, 5)
+Key Pressed: 3
+KeyPad Touched at (2, 6)
+Key Pressed: 5
+KeyPad Touched at (1, 6)
+Key Pressed: 4
+KeyPad Touched at (3, 7)
+Key Pressed: 9
+KeyPad Touched at (2, 8)
+Key Pressed: 0
+KeyPad Touched at (3, 7)
+KeyPad Touched at (3, 8)
+Key Pressed: X
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

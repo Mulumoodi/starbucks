@@ -18,7 +18,7 @@ import org.junit.Test;
 public class ProxyPatternTest
 {
     IApp app ;
-    
+
     /**
      * Default constructor for test class ProxyPatternTest
      */
@@ -41,26 +41,36 @@ public class ProxyPatternTest
     @Test
     public void testSuccess()
     {
-        // Test Successful Pin:  
+        // Test Successful Pin:
         // (enter correct pin digits)
-
-        // Validate Pin Succeeded 
+            app.touch(1, 5);
+            app.touch(2, 5);
+            app.touch(3, 5);
+            app.touch(4, 5);
+        // Validate Pin Succeeded
+            System.out.println("Second");
+            System.out.println(app.screen());
         // (replace with correct assert)
-        assertTrue( false ) ;
+        assertEquals("MyCards", app.screen() ) ;
     }
 
     @Test
     public void testFailed()
     {
-        // Test Failed Pin:  
+        // Test Failed Pin:
         // (enter incorrect pin digits)
-
-        // Validate Pin Succeeded 
+            app.touch(1, 5);
+            app.touch(2, 5);
+            app.touch(3, 5);
+            app.touch(2, 6);
+            System.out.println("Firstg");
+            System.out.println(app.screen());
+        // Validate Pin Succeeded
         // (replace with correct assert)
-        assertTrue( false ) ;
+            assertEquals("PinScreen", app.screen() ) ;
     }
 
-    
+
     /**
      * Tears down the test fixture.
      *
